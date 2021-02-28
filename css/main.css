@@ -156,7 +156,10 @@ a:hover {
   font-weight: bold;
 }
 
-
+p a {
+  color: rgb(165, 154, 157);
+  font-weight: bold;
+}
 
 .col-md-3 h3 {
   margin-left:2em;
