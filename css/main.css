@@ -191,22 +191,12 @@ p a {
   padding-left:15px;
 }
 
-#portfolio {
-  background-color: red;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  width: 100%;
-  float: left;
-}
-
 .icon-right-open-big a {
   background-color: red;
 }
 
-.images {
-  width: 60%;
-  float: left;
-  position:relative;
+img {
+  padding: 2%;
 }
 
 .footer {
